@@ -24,7 +24,7 @@
 ## [주요 코드]
 ### [먼저 3인칭 FPS 코드 분석입니다.]
 #### Fire
-Fire 기능은 "Set Timer By Event" 함수를 이용해 연사가 가능하게 했으며 "LineTraceForObject"함수를 통해 데미지 처리를 했습니다.
+Fire 기능은 "Set Timer By Event" 함수를 이용해 연사가 가능하게 했으며 "LineTraceForObject"함수를 통해 데미지 처리를 했습니다.\
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197504178-d04f3899-14ef-4438-a754-0741a62f6605.png"/>
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197504184-5a40cb97-85bd-44f9-b11b-4aac2217c126.png"/>
 
