@@ -59,7 +59,7 @@ AI를 구성하는 Behavior Tree입니다. NPC 시야 안에 있거나 주변에
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197510187-441c589c-4d19-4819-ace0-146619ae787d.png"/>
 
 #### Teleport
-마우스 커서의 Hit result location을 통해서 Path를 만들어주고 그곳을 따라 움직이도록 설정했습니다. 도착시 이펙트가 터집니다.
+마우스 커서의 Hit result location을 통해서 Path를 만들어주고 그곳을 따라 움직이도록 설정했습니다. 도착시 이펙트가 터집니다.\
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197510844-9bb9d51c-d28b-4e46-9b0b-0f7c620f3886.png"/>
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197510838-a46ea943-4ebc-4198-9be1-51bed3497b6f.png"/>
 
