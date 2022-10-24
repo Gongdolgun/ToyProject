@@ -39,7 +39,7 @@ Reload 기능은 몽타주 기능을 이용하여 본의 "Spine"을 기준으로
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197505779-99ca8ce8-c0de-42fc-b103-4c0b822fe13e.png"/>
 
 #### AI
-AI를 구성하는 Behavior Tree입니다. NPC 시야 안에 있거나 주변에서 소리를 인식하면 캐릭터를 향해 따라오며 사격합니다.
+AI를 구성하는 Behavior Tree입니다. NPC 시야 안에 있거나 주변에서 소리를 인식하면 캐릭터를 향해 따라오며 사격합니다.\
 <img width="60%" src="https://user-images.githubusercontent.com/90584581/197506060-e2859e26-5b51-4ca9-aa2d-1ce7f9b8ce1b.png"/>
 
 
